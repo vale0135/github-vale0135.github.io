@@ -1,0 +1,27 @@
+{
+  "name": "midterm",
+  "version": "1.0.0",
+  "description": "Midterm website",
+  "main": "index.js",
+  "dependencies": {
+    "webpack-dev-server": "^2.9.4",
+    "webpack": "^3.8.1"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vale0135/midterm.git"
+  },
+  "author": "Melissa Valencia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vale0135/midterm/issues"
+  },
+  "homepage": "https://github.com/vale0135/midterm#readme"
+}
