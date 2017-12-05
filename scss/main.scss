@@ -1,5 +1,6 @@
 @import 'custom';
 @import '../node_modules/bootstrap/scss/bootstrap';
+@import url('https://fonts.googleapis.com/css?family=Lobster+Two');
 
 body {
   padding: 2rem 0;
@@ -34,4 +35,22 @@ html {
   font-size: 1.2rem;
   letter-spacing: .12em;
   opacity: .6;
+}
+
+h1{
+  font-family: "Lobster Two";
+	font-size: 24px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 26px;
+}
+
+h2{
+  font-family: "Lobster Two";
+	font-size: 14px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 15px;
 }
