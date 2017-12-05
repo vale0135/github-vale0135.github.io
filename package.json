@@ -4,8 +4,9 @@
   "description": "Midterm website",
   "main": "index.js",
   "dependencies": {
-    "webpack-dev-server": "^2.9.4",
-    "webpack": "^3.8.1"
+    "startbootstrap-one-page-wonder": "^4.0.0-beta",
+    "webpack": "^3.8.1",
+    "webpack-dev-server": "^2.9.4"
   },
   "devDependencies": {
     "gulp": "^3.9.1",
